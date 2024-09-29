@@ -24,6 +24,7 @@ Get a bird's-eye view of all the AI-generated design projects in the catalog.
 
 Explore individual projects with rich, interactive content dynamically rendered for a seamless experience.
 
+![Api Catalog](./assets/images/api-catalog.png)
 ![ChatGPT Exporter](./assets/images/chatgpt-exporter.png)
 ![Learn to cook](./assets/images/learntocook.png)
 ![Whiteboard](./assets/images/whiteboard.png)
