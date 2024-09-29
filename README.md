@@ -27,6 +27,8 @@ Explore individual projects with rich, interactive content dynamically rendered 
 ![ChatGPT Exporter](./assets/images/chatgpt-exporter.png)
 ![Learn to cook](./assets/images/learntocook.png)
 ![Whiteboard](./assets/images/whiteboard.png)
+![Note Taking](./assets/images/note-taking.png)
+![POS](./assets/images/pos.png)
 
 ---
 
