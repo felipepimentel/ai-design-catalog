@@ -29,6 +29,7 @@ Explore individual projects with rich, interactive content dynamically rendered 
 ![Whiteboard](./assets/images/whiteboard.png)
 ![Note Taking](./assets/images/note-taking.png)
 ![POS](./assets/images/pos.png)
+![AI Chat](./assets/images/ai-chat.png)
 
 ---
 
